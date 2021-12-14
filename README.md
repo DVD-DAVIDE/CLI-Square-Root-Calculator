@@ -19,3 +19,7 @@ A simple square root calculator.
   - Running:
     - With `$<engine> testsquareroot <iters>`:
       > \<iters\> is the number of times the squareroot will be calculated with random parameter. If not provided, default is 100.
+
+## License
+
+This project is licensed under the terms of the MIT license.
