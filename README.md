@@ -6,9 +6,9 @@ A simple square root calculator.
 
 ## Files
 
-> (NOTE: file extensions aren't specified due to the various languages used. Still, the sintax is the same, besides the language.)
+> NOTE: file extensions aren't specified due to the various languages used. Still, the sintax is the same, besides the language.
 
-> (NOTE: `<engine>` is the eventual program running the code (e.g. 'java', 'python', etc.))
+> NOTE: `<engine>` is the eventual program running the code (e.g. 'java', 'python', etc.)
 
 - `squareroot`: main file with square root function
   - Running:  
