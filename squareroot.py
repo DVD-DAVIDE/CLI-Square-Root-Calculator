@@ -16,4 +16,4 @@ except IndexError:
     number = int(input('What number do you want the square root of? '))
 #Print result
 print('The square root of ' + str(number) + ' is ' + str(squareroot(n = number, x = number/2)))
-input()
+input('Press ENTER to exit. ')
