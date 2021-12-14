@@ -31,4 +31,4 @@ for i in range(total):
         bad = bad + 1
 #Print count of both good (equal with both functions) and bad (different) answers
 print('Good answers: ' + str(good) + '\nBad answers:  ' + str(bad) + '\nTotal: ' + str(good+bad))
-input()
+input('Press ENTER to exit. ')
